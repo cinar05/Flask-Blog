@@ -1,0 +1,1 @@
+from Flaskblog import db
